@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.joey</groupId>
-	<artifactId>queue</artifactId>
+	<artifactId>RabbitMq-Queue</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>queue</name>
 	<description>RabbitMQ demo for queue</description>

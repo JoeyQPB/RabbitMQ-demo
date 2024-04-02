@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/message")
-public class publisherController {
+public class PublisherController {
 
     @Autowired
     private RabbitMQService rabbitMQService;
